@@ -1,6 +1,6 @@
-#Matplotlib
+# Matplotlib
 
-###**Customization**
+### **Customization**
 
    _Labelling and axis naming_
    ```python
